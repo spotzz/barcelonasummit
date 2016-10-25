@@ -12,6 +12,10 @@ Gerrit actually uses you launchpad ID to log in however you will need to accept 
 
 Getting Started - The OpenStack Community has put together a document for getting started as a member of the community. Their documentation for getting started and some basic troubleshooting can be found at: http://docs.openstack.org/contributor-guide/quickstart/first-timers.html#setting-up-for-contribution
 
+If you can not install with the above instructions on a MAC, check hout http://homebrew.sh and once home brew is install ed:
+
+brew install git
+
 In depth instruction for Windows - https://wiki.opnfv.org/display/DEV/Windows
 
 We will be reaching out to attendees in the weeks before summit to make sure everyone has the pre-reqs covered so that we can work on the workflow and more advanced topics during the session. If you have a question or issue in the meantime please open an issue at:
